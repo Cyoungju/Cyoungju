@@ -1,6 +1,6 @@
 <div> 
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&height=100)
 
 ### Welcome my Github profile! :star::dizzy:
 Hello! I am Choi Young-ju, a backend developer who is constantly studying.
