@@ -2,7 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,30&text=YoungJu&animation=fadeIn)
 #### Welcome my Github profile! :star::dizzy:
-<br>
+<a href="mailto:dudwn3528@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</a> 
+<br><br>
  
 #### 🔨Once I've used    
 <br>
@@ -39,7 +42,14 @@
 
 <br/>
 <br/>
+
+#### 💻 DEV's log 
+<img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+
+<br><br>
  
+
 #### :pencil2: Study log
 <br>
 
