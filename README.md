@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,30&text=YoungJu&animation=fadeIn)
 #### Welcome my Github profile! :star::dizzy:
-<a href="mailto:dudwn3528@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-</a> 
 <br><br>
  
 #### 🔨Once I've used    
