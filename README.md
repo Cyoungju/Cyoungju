@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,30&text=YoungJu&animation=fadeIn)
 #### Welcome my Github profile! :star::dizzy:
-
+<br>
+ 
+#### 🔨Once I've used    
 <br>
 <!-- Java -->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -33,4 +35,14 @@
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <!-- adobeillustrator -->
 <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+
+
+<br/>
+<br/>
+ 
+#### :pencil2: Study log
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyoungju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
