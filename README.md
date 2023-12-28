@@ -41,12 +41,13 @@
 #### 💻 DEV's log 
 <a href="https://velog.io/@jjya_3562" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 <a href="https://blog.naver.com/dudwnsla1004" target="_blank"><img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
-
+<!--
 <br><br> 
 
 #### :pencil2: Study log
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyoungju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+-->
 </div>
