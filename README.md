@@ -1,15 +1,12 @@
 <div> 
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&height=100)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&height=100)
+<!-- 
 ### Welcome my Github profile! :star::dizzy:
 Hello! I am Choi Young-ju, a backend developer who is constantly studying.
+-->
 
-
-<br>
- 
 ## 🔨Once I've used    
-<br>
 <!-- Java -->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <!-- Spring -->
