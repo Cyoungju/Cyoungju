@@ -6,7 +6,6 @@
 ## Skill
 ### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
