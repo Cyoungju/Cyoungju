@@ -1,9 +1,9 @@
 <div> 
 <a href="https://jjuya.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-de107b?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="mailto:youngjus.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/youngjus.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:youngjus.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/youngjus.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/youngju-choi-backend-developer/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 
-## Skill
+## Tech Stack
 ### Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
 
-### Database
+### Database & Messaging
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
