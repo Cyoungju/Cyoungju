@@ -1,53 +1,28 @@
 <div> 
+<a href="https://jjuya.tistory.com"><img src="https://img.shields.io/badge/Blog-de107b?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="mailto:youngjus.dev@gmail.com"><img src="https://img.shields.io/badge/youngjus.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/youngju-choi-backend-developer/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&height=100)
-<!-- 
-### Welcome my Github profile! :star::dizzy:
-Hello! I am Choi Young-ju, a backend developer who is constantly studying.
--->
-
-## 🔨Once I've used    
-<!-- Java -->
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<!-- Spring -->
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<!-- SpringBoot -->
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<!-- MysQL -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-
+## Skill
+### Backend
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white">
 <br>
-<!-- github -->
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/QueryDSL-007396?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
 
-<br>
-<!-- bootstrap -->
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<!-- php -->
-<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<!-- adobephotoshop -->
-<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<!-- adobeillustrator -->
-<img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"> 
-<br/>
-<br/>
+### Database
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
 
-## 💻 DEV's log 
-[![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=TSTORY&theme=jjuya)](https://jjuya.tistory.com/)
-<!--
-<br><br> 
-
-#### :pencil2: Study log
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyoungju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-</div>
+### DevOps & Infra
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"><br>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoC
