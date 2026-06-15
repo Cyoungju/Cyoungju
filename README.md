@@ -1,6 +1,6 @@
 <div> 
 <a href="https://jjuya.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-de107b?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="mailto:dudwn3528@gmail.com" target="_blank"><img src="https://img.shields.io/badge/youngjus.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:dudwn3528@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dudwn3528@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/youngju-choi-backend-developer/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 
 ## Tech Stack
